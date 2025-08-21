@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**MarioIbago/MarioIbago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mario — 17-year-old Software & Web Developer**  
+Python · HTML/CSS/JS · LaTeX · Data processing · Automation · API integrations (ChatGPT) · AI fine-tuning
 
-Here are some ideas to get you started:
+### Highlight
+- Developer of an **intelligent system for generating learning materials**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+Python (Pandas, scikit-learn) · HTML/CSS/JS · Git · APIs (ChatGPT) · LaTeX
+
+### Contact
+- Email: [mario.ibarrag@udem-edu](mailto:mario.ibarrag@udem-edu)
+- GitHub: [MarioIbago](https://github.com/MarioIbago)
