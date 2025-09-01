@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **Mario — 17-year-old Software & Web Designer**  
-Python · HTML/CSS/JS · LaTeX · Data processing · Automation · API integrations (ChatGPT/Copilot/Python/ Google CS) · AI fine-tuning · AI Agents Node
+Python · HTML/CSS/SCRATCH · LaTeX · Data processing · Automation · API integrations (ChatGPT/Copilot/ Google CS) · AI fine-tuning · AI Agents Node
 
 ### Highlight
 - Developer of an **intelligent system for generating learning materials**
