@@ -5,6 +5,7 @@ Python · HTML/CSS/SCRATCH · LaTeX · Data processing · Automation · API inte
 
 ### Highlight
 - Developer of an **intelligent system for generating learning materials**
+- LaTeX AI Automation Program
 
 ### Tech
 Python (Pandas, scikit-learn) · HTML/CSS/SCRT · Git · APIs (ChatGPT/Copitot/GoogleCloud) · LaTeX
