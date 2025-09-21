@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-**Mario — 17-year-old**  
-Python · HTML/CSS/SCRATCH · LaTeX · Data processing · Automation · API integrations (ChatGPT/Copilot/ Google CS) · AI fine-tuning · AI Agents Node
+**Mario — 17-year-old Developer**  
+Python · HTML/CSS · LaTeX · Data Processing · Automation · API Integrations (OpenAI API, GitHub Copilot, Google Cloud) · AI Fine-Tuning · AI Agents (Node.js)
 
-**API Integrations · Data-Driven Feedback Models · LLM Engineering · Automation**  
-I design and implement intelligent systems that merge **large-language-model (LLM)** capabilities with **data-feedback pipelines** to create adaptive learning tools and automated knowledge workflows.  
-My focus is on building **scalable, reliable integrations** between AI models and real-time data to enhance decision making and educational content generation.
+**API Integrations · Data-Feedback Models · LLM Engineering**  
+I build scalable systems that combine **large-language models (LLMs)** with **data pipelines** to automate learning materials and mathematical publishing.
 
 ## Core Competencies
 - **Programming & Markup:** Python · HTML/CSS · LaTeX  
 - **Data & ML:** Pandas · scikit-learn  
-- **Automation & APIs:** OpenAI/ChatGPT · GitHub Copilot · Google Cloud  
+- **Automation & APIs:** OpenAI API · GitHub Copilot · Google Cloud Services  
 - **Deployment:** Git · CI/CD · AI Agents (Node.js)
 
 ## Projects
