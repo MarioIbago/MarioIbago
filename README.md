@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-**Mario — 17-year-old Developer**  
-Python · HTML/CSS · React · LaTeX · API Integrations
+**Mario — 17-year-old**  
+Python · HTML/CSS · React · LaTeX 
 
 I have some experience working with Python, HTML/CSS, React, and LaTeX, and I’m currently continuing to learn and improve in these areas.
 
