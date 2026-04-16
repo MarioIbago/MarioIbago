@@ -1,28 +1,50 @@
-## Hi there 👋
+```text
+███╗   ███╗ █████╗ ██████╗ ██╗ ██████╗     ██╗██████╗  █████╗ ██████╗ ██████╗  █████╗  ██████╗
+████╗ ████║██╔══██╗██╔══██╗██║██╔═══██╗    ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝
+██╔████╔██║███████║██████╔╝██║██║   ██║    ██║██████╔╝███████║██████╔╝██████╔╝███████║██║  ███╗
+██║╚██╔╝██║██╔══██║██╔══██╗██║██║   ██║    ██║██╔══██╗██╔══██║██╔══██╗██╔══██╗██╔══██║██║   ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║╚██████╔╝    ██║██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
+```
 
-**Mario — 17-year-old student developer**  
-Python · TypeScript · React · Vite · LaTeX · Figma
+# Hi there 👋
 
-I’m a student developer interested in building **AI-powered and education-focused web applications**. My main stack includes **Python, TypeScript, React, Vite, LaTeX, and Figma**, and I enjoy combining technical systems with practical user-facing design.
+Student developer focused on **AI-powered web apps**, **adaptive learning tools**, and **retrieval-based systems**.
 
-Recently, I’ve been working on projects related to **adaptive content generation**, **retrieval-based AI workflows**, and structured educational tools. I’m especially interested in how models can be connected through APIs and supported by retrieval pipelines, scoring systems, and better context management strategies.
+## Stack
 
-I also have experience with **Firebase** and **NoSQL-based application flows**, including authentication, Firestore document structures, and user-linked data systems. On the AI side, I’ve explored **RAG-style architectures with heuristic scoring**, where retrieval is guided by structured filtering, ranking logic, and prompt construction rather than embeddings alone.
+| Area | Tools |
+|---|---|
+| Languages | Python, TypeScript |
+| Frontend | React, Vite, HTML/CSS |
+| Backend / Infra | Firebase, Firestore, Vercel Functions |
+| AI | OpenRouter, RAG, heuristic scoring |
+| Design | Figma, LaTeX |
 
-One area I find especially interesting is **context efficiency in AI systems**: how to reduce context bloat, organize relevant information more effectively, and design layered context strategies that improve both quality and consistency.
+## About Me
 
-At the moment, I’m focused on learning more about:
-- AI system architecture
-- retrieval and ranking pipelines
-- adaptive learning tools
-- prompt orchestration
-- reliable and scalable web applications
+| Topic | Details |
+|---|---|
+| Focus | Educational apps, adaptive generation, AI workflows |
+| Interests | RAG systems, context management, prompt orchestration |
+| Experience | Firebase, NoSQL structures, structured retrieval logic |
+| Current Goal | Build more solid, scalable, and useful AI products |
+
+## Areas I Like Exploring
+
+- Adaptive content generation
+- RAG with heuristic scoring
+- Context selection and context-bloat reduction
+- API integrations for AI applications
+- Clean UI systems for learning products
 
 ## Core Competencies
 
-- **Frontend Development:** React, Vite, TypeScript, HTML/CSS
-- **Python Development:** scripting, automation, data processing, logic design
-- **AI Integrations:** model APIs, prompt workflows, structured generation systems
-- **RAG Systems:** heuristic scoring, retrieval pipelines, context selection
-- **Firebase / NoSQL:** authentication, Firestore, document-based data flows
-- **UI/UX Design:** Figma, interface structure, user-centered design, educational product thinking
+| Competency | Description |
+|---|---|
+| Frontend Development | React, Vite, TypeScript, HTML/CSS |
+| Python Development | Scripting, automation, data handling |
+| AI Integrations | Prompt pipelines, model APIs, structured generation |
+| RAG Systems | Retrieval logic, scoring, context injection |
+| Firebase / NoSQL | Auth, Firestore, document-based workflows |
+| UI/UX Design | Figma, layout systems, product-oriented design |
