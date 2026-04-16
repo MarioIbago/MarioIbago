@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47361df0-7a0b-4149-92d6-dd127f25a9f8/dd3ndxp-ad830d7f-b2cd-456d-b3b1-e9a494a19193.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3MzYxZGYwLTdhMGItNDE0OS05MmQ2LWRkMTI3ZjI1YTlmOFwvZGQzbmR4cC1hZDgzMGQ3Zi1iMmNkLTQ1NmQtYjNiMS1lOWE0OTRhMTkxOTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nflpFaOkmm1YhLyFebGENQVVTieDnRMcByU4nadMnmo" alt="Banner" width="100%" />
+  <img src="https://th.bing.com/th/id/R.346525ed792d52abe72e32e6ed66d9c4?rik=2Lbi8lOrEN0t0A&pid=ImgRaw&r=0" alt="Dinosaur banner" width="260" />
 </p>
 
 ```text
@@ -11,9 +11,10 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝     ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝
 ```
 
-# Hi there 👋
-
-Student developer focused on **AI-powered web apps**, **adaptive learning tools**, **online stores**, and **retrieval-based systems**.
+<p align="center">
+  <b>Hi there, I'm Mario 👋</b><br/>
+  I'm 17 years old and currently learning software development, especially in web applications, AI-powered tools, and adaptive systems.
+</p>
 
 ## Stack
 
