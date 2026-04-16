@@ -1,22 +1,28 @@
 ## Hi there 👋
 
-**Mario - 17-year-old**  
-Python · HTML/CSS · React · LaTeX 
+**Mario — 17-year-old student developer**  
+Python · TypeScript · React · Vite · LaTeX · Figma
 
-I have some experience working with Python, HTML/CSS, React, and LaTeX, and I’m currently continuing to learn and improve in these areas.
+I’m a student developer interested in building **AI-powered and education-focused web applications**. My main stack includes **Python, TypeScript, React, Vite, LaTeX, and Figma**, and I enjoy combining technical systems with practical user-facing design.
 
-I’m interested in how AI systems work and how they can be connected through APIs to build simple but useful applications. Lately, I’ve been exploring ideas around RAG models and systems that can use data to adapt over time, although I’m still learning how to implement these effectively.
+Recently, I’ve been working on projects related to **adaptive content generation**, **retrieval-based AI workflows**, and structured educational tools. I’m especially interested in how models can be connected through APIs and supported by retrieval pipelines, scoring systems, and better context management strategies.
 
-I’m especially curious about how to create tools that respond to users in more flexible (non-deterministic) ways. Right now, my focus is on learning, experimenting, and gradually building more solid and reliable projects.
+I also have experience with **Firebase** and **NoSQL-based application flows**, including authentication, Firestore document structures, and user-linked data systems. On the AI side, I’ve explored **RAG-style architectures with heuristic scoring**, where retrieval is guided by structured filtering, ranking logic, and prompt construction rather than embeddings alone.
+
+One area I find especially interesting is **context efficiency in AI systems**: how to reduce context bloat, organize relevant information more effectively, and design layered context strategies that improve both quality and consistency.
+
+At the moment, I’m focused on learning more about:
+- AI system architecture
+- retrieval and ranking pipelines
+- adaptive learning tools
+- prompt orchestration
+- reliable and scalable web applications
 
 ## Core Competencies
-Web Development (HTML/CSS, React)
-API Integrations (learning to connect services and automate workflows)
-Basic UI/UX Design (user-focused interfaces and usability)
-Python & Data Handling (foundational scripting and data processing)
 
-## Programs — Direct Links
-- [Math Notes Generator](https://math-notes-maker.streamlit.app/)  
-- [LaTeX to Notes](https://notes-2-latex.streamlit.app/)  
-- [LaTeX to Notes (Dual Mode)](https://notes-2-latex-dual.streamlit.app/)  
-- [SIGMAth (Integrals & Area)](https://sigmath.streamlit.app/)
+- **Frontend Development:** React, Vite, TypeScript, HTML/CSS
+- **Python Development:** scripting, automation, data processing, logic design
+- **AI Integrations:** model APIs, prompt workflows, structured generation systems
+- **RAG Systems:** heuristic scoring, retrieval pipelines, context selection
+- **Firebase / NoSQL:** authentication, Firestore, document-based data flows
+- **UI/UX Design:** Figma, interface structure, user-centered design, educational product thinking
