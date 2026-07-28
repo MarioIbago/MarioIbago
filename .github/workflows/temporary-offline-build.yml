@@ -1,0 +1,22 @@
+name: Temporary Cuantly offline build
+
+on:
+  push:
+    branches: [temporary-cuantly-offline-runtime]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: windows-latest
+    steps:
+      - name: Create probe
+        shell: pwsh
+        run: |
+          'ok' | Set-Content probe.txt -Encoding ASCII
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe
+          path: probe.txt
+          retention-days: 1
