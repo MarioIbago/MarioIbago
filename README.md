@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>Hi there, I'm Mario 👋</b><br/>
-  I'm 17 years old and currently learning software development, especially in web applications, AI-powered tools, and adaptive systems.
+  I'm 18 years old and currently learning software development, especially in web applications, AI-powered tools, and adaptive systems.
 </p>
 
 <p align="center">
